@@ -1,4 +1,4 @@
-# c_sharp
+# __C#__ #
 A colelction of all the C_sharp apps I had done while in school
 
 ## [Temperature Conversion App](https://github.com/A-Mac2513/c_sharp/tree/main/temp_conversion)
