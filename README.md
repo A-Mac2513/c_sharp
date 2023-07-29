@@ -1,6 +1,5 @@
 # __C#__ #
 A colelction of all the C# apps I had done while in school
-
 ===============================================================================================================================================
 
 ## [Temperature Conversion App](https://github.com/A-Mac2513/c_sharp/tree/main/temp_conversion)
